@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-is",
+  "version": "1.1.0",
+  "description": "",
+  "scripts": {
+    "build": "if-env TYPE=server && (cd server && npm install) || (cd client && npm install)",
+    "server": "node ./server/index.js",
+    "client": "cd client && npm start"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
+  }
+}

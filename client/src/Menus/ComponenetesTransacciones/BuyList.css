@@ -1,0 +1,23 @@
+.inputNumber{
+    background-color: #fff6ed;    
+}
+.search{
+    background-color: #fff6ed;  
+}
+
+.botones{
+    display:flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    margin-top: 1%;
+    gap:8%;
+    margin-bottom: 2%;
+}
+.img {
+    width: 60px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }

@@ -1,0 +1,17 @@
+.modal{
+    top:0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .modal{
+        width:100% !important;
+    }
+}   
+
+
+@media screen and (min-width:1024px){
+    .modal{
+        float: right;
+        width:25% !important;
+    }
+}

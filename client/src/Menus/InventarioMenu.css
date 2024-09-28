@@ -1,0 +1,22 @@
+.row{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.transacciones{
+    margin-top: 2%;
+    margin-left: 5%;   
+    margin-right: 5%; 
+}
+
+.column{
+    flex-basis: 100%;
+}
+
+.img {
+    width: 40px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }

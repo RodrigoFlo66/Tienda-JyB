@@ -1,0 +1,15 @@
+.inputNumber{
+    background-color: #fff6ed;    
+}
+.select{
+    background-color: #fff6ed; 
+    display: grid;
+    grid-template-areas: "select";
+    align-items: center;
+    position: relative;
+}
+
+.select-selected {
+    background-color: rgb(50, 73, 95);
+  }
+  

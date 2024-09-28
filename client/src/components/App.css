@@ -1,0 +1,21 @@
+.Layout .Header{
+    position:sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+@media screen and (max-width:768px){
+    .ant-layout-sider-collapsed {
+        width: 80px;
+      }
+}
+
+.div-logo{
+    width: 80;
+    height: 64px;
+    text-align: center; 
+}
+
+.logo-sider{
+    width: 150px;
+}
