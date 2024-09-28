@@ -12,5 +12,5 @@ app.use(express.json());
 
 app.use(storeRoutes);
 
-app.listen(8080); 
+app.listen(4000); 
 console.log("Server on port 8080");
